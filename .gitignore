@@ -1,0 +1,6 @@
+*prof
+*.exe
+logs
+*.tmp
+swagger.zip
+swagger
