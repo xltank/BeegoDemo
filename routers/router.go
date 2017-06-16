@@ -11,7 +11,7 @@ import (
 	"github.com/astaxie/beego"
     "github.com/astaxie/beego/context"
 	"strings"
-	"test/controllers"
+	"BeegoTest/controllers"
 )
 
 

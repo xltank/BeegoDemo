@@ -1,5 +1,6 @@
 *prof
 *.exe
+*.exe*
 logs
 *.tmp
 swagger.zip

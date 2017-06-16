@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"test/models"
+	"BeegoTest/models"
 	"encoding/json"
 
 	"github.com/astaxie/beego"
